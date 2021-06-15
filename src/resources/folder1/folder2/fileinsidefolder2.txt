@@ -1,0 +1,1 @@
+Hello outside of folder 2
